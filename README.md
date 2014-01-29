@@ -92,7 +92,7 @@ As a team of five we employed Agile practices, as well as taking advantage of ot
 The team behind this app is:
 
 [Hemang Patel](https://github.com/HemangPatel1)<br>
-[Michael Bottyer](https://github.com/MBottjer)<br>
+[Michael Bottjer](https://github.com/MBottjer)<br>
 [James Jenkins-Yates](https://github.com/jamesjenkinsyates)<br>
 [Nadia Odunayo](https://github.com/NadiDami)<br>
 [Rhys Stansfield](https://github.com/RhysStansfield)<br>
